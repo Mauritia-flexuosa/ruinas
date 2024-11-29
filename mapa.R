@@ -92,12 +92,11 @@ mapa <- leaflet()  %>% addTiles() %>%
     baseGroups = c("Satélite","Street Map"),
 #    overlayGroups = c("Árvores"),
     options = layersControlOptions(collapsed = FALSE)
-  ) |>
-  addControlGPS(
-    options = gpsOptions(
-      position = "topleft",
-      activate = TRUE,
-      autoCenter = TRUE,
-      setView = TRUE)) %>%
-  activateGPS()
-mapa
+   ) # |>
+  # addControlGPS(
+  #   options = gpsOptions(
+  #     position = "topleft",
+  #     activate = TRUE,
+  #     autoCenter = TRUE,
+  #     setView = TRUE)) %>%
+  # activateGPS()

@@ -1,18 +1,16 @@
----
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
----
-
 
 ```{css echo = FALSE}
 body{
 background-color: lightgrey;
 }
 ```
+
 # <b>Resgatando a história e mapeando o Caminho.</b>
 
 ## <font color="green">Projeto de mapeamento das Ruinas e vestígios arqueológicos encontrados na Costa da Lagoa.</font>
 
-### **A primeira fase** do desenvolvimento do projeto envolve a identificação e georreferenciamento das ruinas e sítios arqueológicos ao longo do _Caminho Histórico da comunidade tradicional de pescadores artesanais da Costa da Lagoa_, em Florianópolis.
+### **A primeira fase** do desenvolvimento do projeto envolve a identificação e georreferenciamento das ruinas e sítios arqueológicos ao longo do *Caminho Histórico da comunidade tradicional de pescadores artesanais da Costa da Lagoa*, em Florianópolis.
 
 ### **A segunda fase** visa coletar informações arqueológicas com o fim de resgatar informações históricas e torná-las pública.
 
